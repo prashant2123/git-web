@@ -1,0 +1,87 @@
+Easy mp3 recorder can easily record any sound with one click. No recording time limit! High-quality sound reproduction.
+This recorder for all scenes, whether you want to record meetings, make voice memo or capture music inspiration
+
+Futures:
+Easy to use.
+Lightweight.
+One click recording.
+
+Recording Quality:
+Low: Bitrate 64/kbps, Sample Rate 22050 Hz, Audio Channel MONO
+Med: Bitrate 96/kbps, Sample Rate 44100 Hz, Audio Channel STEREO
+High: Bitrate 128/kbps, Sample Rate 44100 Hz, Audio Channel STEREO
+
+
+
+Permission Required:
+Read/Write External Storage (for saving audio file)
+Record Audio (Required for Record Audio)
+
+Read Privacy  : https://sites.google.com/view/pariapps/easy-mp3-recorder
+
+__________________________
+
+SoundScribe is a powerful MP3 voice recorder app that lets you quickly capture and organize high-quality audio notes, interviews, lectures, and meetings. With automatic transcription, customizable settings, and easy sharing, SoundScribe is the perfect tool for anyone who needs to stay organized and on top of their audio recordings.
+
+_______________________
+
+Store your favorite Web Addresses in app.
+
+Futures:
+Simple and easy to use
+Clean UI
+move item from one folder to another
+Store Web Address directly from web browser via share optionor add manually.
+add/delete/move/share items
+share an Address or entire Address list to another app.
+No signup or login required.
+
+- Clean UI
+- organize your favorite links
+- easy to operate
+- make categories folders
+- directly save links from browsers by share option
+- add, delete, modify bookmarks
+- very fast processing
+- no unwanted permissions
+- 100% safe
+- backup or restore entire bookmark data
+
+What is Bookmark?:
+Also called favorite. a link to a website address saved electronically in a browser to facilitate quick access to the web page. an electronic pointer created in a computer file to facilitate quick access to a specific part of the text.
+
+Why create a bookmark?:
+A bookmark is handy when you find a web page that you want to remember and be able to look at another day. When you bookmark a web page, you are creating a shortcut for quick access to that web page. You can access that bookmark at any time and view the web page as many times as you want without having to search the Internet to find it again.
+
+_______________________________________
+
+If you want to give a new look to your phone or tablet then you should download this amazing Chroma launcher.
+
+Features of Chroma launcher pro
+
+- Designed for tablet and phones
+- Simple launcher and easy to use
+- Customize by long pressing on any icon.
+- More themes
+- Access all apps on the same page by just click on all apps button
+- Beautifully designed UI for better use experience
+- amazing themes
+- smooth UI for better user experience, feels like smooth surface
+- change theme from Theme picker option
+- wallpaper changer
+- speed efficient
+- Classic App Drawer
+- Beautiful PPC homescreen
+- No any permissins required
+- Fast & 100% secure
+
+Supported Language:
+English, Russian, French, Hindi, Arabic, German, Japanese, Portuguese, Hebrew,
+
+What is Launcher?
+Launcher is the name given to the part of the Android user interface that lets users customize the home screen (e.g. the phone’s desktop), launch mobile apps, make phone calls, and perform other tasks on Android devices (devices that use the Android mobile operating system). Launcher is built into Android, however there are a number of Launchers available for download in the Android Market.
+
+Why use Launcher?
+This flexibility in terms of customization can give your device a fresh look and offer you more control over different elements. The best way to personalize an Android phone is through launchers. A launcher will not only change the look of your smartphone but also customize its behaviors.
+
+______________________________
